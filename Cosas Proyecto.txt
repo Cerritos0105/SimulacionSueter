@@ -1,0 +1,25 @@
+Estaciones
+Almacen Hilo
+ Tejedora 1----  grafico dinamico
+Plancha 1
+Cortadora
+ Tejedora 2
+Plancha 2
+
+Doblado---- contador
+
+Deshilador (En caso de defecto)-- contador
+
+Entidades
+Hilo
+Botones
+Lienzo
+Cierres
+Sueter
+
+Recursos
+Cosa para el lienzo en la plancha (Estatico)
+Parafina (Estaticos)
+Mane (Dinamico)
+Mane jr (Dinamico)
+
