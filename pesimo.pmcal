@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Calendar>
+  <Version>3.2.0.0</Version>
+  <DisplayDate>5/17/2026 6:56:17 PM</DisplayDate>
+  <Shifts>
+    <BaseShift>
+      <Name>Turno Base</Name>
+      <Guid>8411016a-a756-45f6-9b4e-0e4429b91483</Guid>
+      <Color>-1</Color>
+      <Data>s:0.7.0-0.14.0</Data>
+      <Data>s:1.7.0-1.14.0</Data>
+      <Data>s:2.7.0-2.14.0</Data>
+      <Data>s:3.7.0-3.14.0</Data>
+      <Data>s:4.7.0-4.14.0</Data>
+      <Data>s:5.7.0-5.14.0</Data>
+    </BaseShift>
+  </Shifts>
+  <Exceptions />
+</Calendar>
